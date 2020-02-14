@@ -1,2 +1,1 @@
-# rsschool-cv
- Markdown & Git
+https://anton-bary.github.io/rsschool-cv/cv
