@@ -31,3 +31,9 @@ p,
 blockquote {
     margin: 0 0 16px;
 }
+
+pre {
+    padding: 5px;
+    background-color: #e9e9e9;
+    border-radius: 8px;
+}
